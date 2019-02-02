@@ -13,7 +13,6 @@ namespace the_erp_client
             
             Console.WriteLine("Hello Client");
             Console.ReadKey();
-
             
         }
     }
